@@ -37,13 +37,14 @@ const defaultMenu = {
 │ Tanggal: *%week %weton, %date*
 │ Tanggal Islam: *%dateIslamic*
 │ Waktu: *%time*
-│
+│ TEST BASE V4 NO MENFESS,DLL
+*Note:* Selama Maintenance Fitur Tidak Sama Jadi Berbeda Sebelumnya
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
 │ Github:
 │ %github
 ╰────
-%readmore`.trimStart(),
+OwnerBot:KhrlMstfa
   header: '╭─「 %category 」',
   body: '│ • %cmd %islimit %isPremium',
   footer: '╰────\n',
