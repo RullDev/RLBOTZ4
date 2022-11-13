@@ -1,9 +1,9 @@
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['https://chat.whatsapp.com/Lb4Emjih98rBiCZiZoS2eM', 'https://chat.whatsapp.com/FrluVyY5kBRIhY6yKfH4DI']
+global.linkGC = ['https://chat.whatsapp.com/D2NUDa6vk4I6hrS176mErV']
 global.Owner = {
   // use the phone number with the country code, for example Indonesia '62' America '1' etc
-  '62857139649630': { // put your number here
-    name: 'Owner Metro Bot/Creator games-wabot',
+  '6287753812675': { // put your number here
+    name: 'Owner Rull Bot/Creator KhrlMstfa',
     isDev: false, // if true this number will send if bot have bug and developer mode true
     isReport: false, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
@@ -19,7 +19,7 @@ global.Owner = {
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: false // if true this number will send if user use command /owner or /creator
   },
-  '6285713964963': {
+  '6287753812675': {
     isReport: true // if true this number will send if user use command /report or /join
   },
   '13479805233': {} // ignore if you don't want anything, like name dll
@@ -55,8 +55,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'wa.me/6285713964963'
-global.author = 'Metro Bot Is The Best'
+global.packname = 'Sticker Made With RullBot'
+global.author = 'Rull Bot Is The Best'
 
 global.multiplier = 39 // The higher, The harder levelup
 
